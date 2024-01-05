@@ -7,3 +7,5 @@ If the Topic is "Topic1", then it should invoke the POD1 and If the "Topic2" the
  1) Mount the service account token to the running POD.
  2) Get the cluster access from the Token by using the Kubctl APIs.
  3) Create the POD by using the yaml files as data
+
+Link for Token: https://cloud.google.com/blog/products/containers-kubernetes/kubernetes-bound-service-account-tokens
